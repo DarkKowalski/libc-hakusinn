@@ -1,6 +1,6 @@
 /*ctype.h standard header*/
-#ifndef _CTYPE_MOCK
-#define _CTYPE_MOCK
+#ifndef _CTYPE
+#define _CTYPE
 
 /* _Ctype code bits*/
 #define _XA 0x200 /*extra alphabetic 1,000,000,000*/
