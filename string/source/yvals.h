@@ -23,7 +23,7 @@
 #define _CSIGN 1
 #define _ILONG 0
 #define _MBMAX 8
-typedef unsigned short -Wchart;
+typedef unsigned short Wchart;
 
 /* pointer properties */
 #define _NULL (void *) 0

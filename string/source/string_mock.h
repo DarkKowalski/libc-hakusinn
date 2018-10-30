@@ -2,7 +2,7 @@
 #ifndef _STRING
 #define _STRING
 #ifndef _YVALS
-#include <yvals.h>
+#include "yvals.h"
 #endif
 
 /*macros*/
